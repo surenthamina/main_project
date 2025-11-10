@@ -1,9 +1,5 @@
-def greet(name):
-    print("Hello,", name)
-
-name = input("Enter your name: ")
-greet(name)
-
-
+print("Welcome to Python!")
+name = "Alice"
+print("My name is", name)
 
 
